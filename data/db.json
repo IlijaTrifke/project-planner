@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": "85f0",
+      "title": "Make a new webesite",
+      "details": "Bla bla blaaa",
+      "complete": true
+    },
+    {
+      "id": "9119",
+      "title": "My new project has been updated",
+      "details": "Something to do i wish i couldasdsad",
+      "complete": false
+    }
+  ]
+}
